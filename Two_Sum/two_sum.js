@@ -17,3 +17,6 @@ try {
 } catch (error) {
     console.error("Erro: ", error.message);
 }
+
+// Feito em:
+// 08/12/2024
