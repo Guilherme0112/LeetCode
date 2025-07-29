@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c2b4505-bc66-4235-b035-0866ed937022" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Palindrome_Number/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Two_Sum/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Two_Sum/two_sum.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/RomanToInteger/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValidWord/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValidWord/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="module-info" />
+        <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
@@ -52,6 +56,9 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -70,7 +77,8 @@
     <configuration name="Palindrome_Number.Main" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="24" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Two_Sum.Main" />
+      <option name="MAIN_CLASS_NAME" value="RomanToInteger.Main" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Longest.*" />
@@ -106,7 +114,22 @@
       <workItem from="1751981898176" duration="445000" />
       <workItem from="1751982370150" duration="5736000" />
       <workItem from="1752014490352" duration="663000" />
-      <workItem from="1752017039714" duration="363000" />
+      <workItem from="1752017039714" duration="701000" />
+      <workItem from="1752068637146" duration="19000" />
+      <workItem from="1752157112525" duration="2996000" />
+      <workItem from="1752160494030" duration="291000" />
+      <workItem from="1752187477306" duration="2412000" />
+      <workItem from="1752201797881" duration="4000" />
+      <workItem from="1752243628163" duration="10000" />
+      <workItem from="1752544274931" duration="2184000" />
+      <workItem from="1752586255355" duration="127000" />
+      <workItem from="1752762714748" duration="1118000" />
+      <workItem from="1752845817016" duration="67000" />
+      <workItem from="1753282005457" duration="978000" />
+      <workItem from="1753310922023" duration="601000" />
+      <workItem from="1753456763572" duration="385000" />
+      <workItem from="1753489864358" duration="4000" />
+      <workItem from="1753746158860" duration="1314000" />
     </task>
     <servers />
   </component>

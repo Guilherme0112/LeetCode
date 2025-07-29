@@ -23,7 +23,7 @@ class Main{
             }
         }
 
-        return indices;
+        System.out.println(Arrays.toString(indices));
     }
 }
 
